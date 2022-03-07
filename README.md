@@ -8,7 +8,7 @@ En la actualidad, se ha logrado dar mayor visibilidad a este tema, sin embargo, 
 
 # ¿Cómo superar el síndrome del impostor como desarrollador/a Junior?
 
-Lo primero que debemos tener súper claro, es que siempre habrá alguien con mayor o menor experiencia que nosotros, aunque nos graduemos juntos, aunque tengamos el mismo trabajo, ya que eso depende de muchísimos factores, no solo los cursos o certificaciones que tengamos. El mundo de la programación es tan amplio que sería extraño conseguirnos a dos personas que tengan exactamente las mismas características, habilidades y experiencia. 
+Lo primero que debemos tener súper claro, es que siempre habrá alguien con mayor o menor experiencia que nosotros, aunque nos graduemos juntos, aunque tengamos el mismo trabajo, ya que eso depende de muchísimos factores, no sólo de los cursos o certificaciones que tengamos. El mundo de la programación es tan amplio que sería extraño conseguirnos a dos personas que tengan exactamente las mismas características, habilidades y experiencia. 
 
 Lo segundo, es que saber enfrentarnos y gestionar los desafíos que nos consigamos es tan importante como tener los conocimientos de programación. El manejo de la frustración, estrés, el constante cambio, etc., es fundamental para tener éxito. La programación es una carrera muy bonita, es emocionante, interesante, te impulsa a siempre dar lo mejor de ti, pero también es sumamente abrumadora al principio, ya que como programadores junior, nos enfrentamos a un mundo nuevo y tan grande que es difícil saber por dónde empezar. 
 
